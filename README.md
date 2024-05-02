@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💻 Hoje sou estudante de engenharia da computação no 2º período
+
 
 ##
 
