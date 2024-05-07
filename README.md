@@ -25,10 +25,6 @@ Here are some ideas to get you started:
 ##
 
 <div style="display: inline_block"><br>
-<img align="center" alt="C" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-                  
-          
+<img align="center" alt="C" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">         
 </div>          
       
