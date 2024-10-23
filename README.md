@@ -1,30 +1,18 @@
-<!--
-## Olá eu sou o Fabio Sato
--->
-<!--
-**fabiosato0/fabiosato0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 💻 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+<!-- Breve biografia -->
+### 👋 Hi, I'm Fabio
 ##
+📚 Computer engineering student at UTFPR <br/>
+💭 Currently researching about mobile app development <br/> 
+### 💻 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-[![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiosato0&theme=ocean_dark)](https://github.com/fabiosato0/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosato0&hide_progress=true&theme=ocean_dark)](https://github.com/fabiosato0/github-readme-stats)
 
-##
-
-<div style="display: inline_block"><br>
-<img align="center" alt="C" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">         
-</div>          
+[![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiosato0&theme=midnight-purple)](https://github.com/fabiosato0/github-readme-stats)
+       
       
